@@ -6,7 +6,6 @@ function Display(No)
     console.log("Jay Ganesh...")
   }
   
-
 }
 function main()
 {
